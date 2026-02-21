@@ -1,0 +1,9 @@
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(rgba(26, 29, 21, 0.4), rgba(26, 29, 21, 0.7)), url('https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?q=80&w=2000&auto=format&fit=crop');
+            background-size: cover;
+            background-position: center;
+        }
